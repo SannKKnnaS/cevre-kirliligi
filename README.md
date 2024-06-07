@@ -9,4 +9,4 @@ YOLO (You Only Look Once) veya Faster R-CNN: Nesne algılama için yaygın olara
 
 
 
-        Bunlardan bir veya birkaçını kullanarak sağlıklı bir kod yazabiliriz.
+        #Bunlardan bir veya birkaçını kullanarak sağlıklı bir kod yazabiliriz.
